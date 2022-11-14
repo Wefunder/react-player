@@ -6,7 +6,6 @@ package-lock.json
 /lib
 /lazy
 /demo
-/es6
 /coverage
 .idea/
 .vscode/
